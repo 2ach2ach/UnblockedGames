@@ -10,13 +10,8 @@ const __dirname = path.dirname(__filename);
 export default defineConfig(({mode}) => {
   const env = loadEnv(mode, '.', '');
   return {
-    base: './',
+    base: '/',
     plugins: [react(), tailwindcss()],
-    esbuild: {
-      loader: 'jsx',
-      include: /src\/.*\.js$/,
-      exclude: [],
-    },
     define: {
       'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
     },
