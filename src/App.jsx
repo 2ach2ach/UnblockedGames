@@ -8,17 +8,8 @@ import { motion, AnimatePresence } from 'motion/react';
 import { Gamepad2, X, Maximize2, RotateCcw, ChevronLeft } from 'lucide-react';
 import gamesData from './data/games.json';
 
-interface Game {
-  id: string;
-  title: string;
-  description: string;
-  url: string;
-  category: string;
-  thumbnail: string;
-}
-
 export default function App() {
-  const [selectedGame, setSelectedGame] = useState<Game | null>(null);
+  const [selectedGame, setSelectedGame] = useState(null);
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [key, setKey] = useState(0);
