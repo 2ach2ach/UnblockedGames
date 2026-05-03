@@ -1,0 +1,66 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "category": "Puzzle",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris.",
+    "url": "https://hextris.io/",
+    "category": "Arcade",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "tower-building",
+    "title": "Tower Building",
+    "description": "Build the tallest tower in the world.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Classic",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road?",
+    "url": "https://poki.com/en/g/crossy-road",
+    "category": "Action",
+    "thumbnail": "https://images.unsplash.com/photo-1553481187-be93c21490a9?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The classic block-fitting puzzle game.",
+    "url": "https://tetris.com/play-tetris",
+    "category": "Classic",
+    "thumbnail": "https://images.unsplash.com/photo-1620336655055-088d06e36bf0?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "Navigate the maze and eat all the dots while avoiding ghosts.",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Classic",
+    "thumbnail": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "little-alchemy",
+    "title": "Little Alchemy",
+    "description": "Combine elements to create new items in this scientific puzzle.",
+    "url": "https://littlealchemy.com/",
+    "category": "Education",
+    "thumbnail": "https://images.unsplash.com/photo-1633167606207-d840b5070fc2?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "Tap to fly and avoid the pipes in this challenging arcade game.",
+    "url": "https://flappybird.io/",
+    "category": "Arcade",
+    "thumbnail": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=400&h=300&fit=crop"
+  }
+]
